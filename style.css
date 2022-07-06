@@ -33,16 +33,21 @@ body {
 }
 
 a {
+    /* display: flex; */
     text-align: center;
+    /* align-items: center; */
     font-size: 22px;
     font-weight: 500;
     font-family: 'Heebo', sans-serif;
     color: white;
-    margin-inline: 44%;
+    /* width: 100vh; */
     text-decoration: none;
     background-color: rgba(252, 86, 26, 0.952);
     border-radius: 5px;
     padding: 20px 30px;
+    margin-left: 45%;
+
+
 
 }
 
