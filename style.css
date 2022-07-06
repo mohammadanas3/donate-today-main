@@ -331,9 +331,9 @@ body {
     /* margin-right: 35%; */
     padding-block: 14px;
     padding-inline: 25px 25px;
-    /* margin-left: 0%; */
+    margin-left: 0%;
     margin-right: 45%;
-    width: 150px;
+    /* width: 150px; */
 }
 
 /* Footer section start */
