@@ -319,7 +319,7 @@ body {
 #button-3 {
     /* height: 55px;
     width: 200px; */
-    align-items: flex-start;
+    /* align-items: flex-start; */
     text-align: center;
     background-color: rgba(252, 86, 26, 0.952);
     font-size: 22px;
